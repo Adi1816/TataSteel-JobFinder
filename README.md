@@ -1,7 +1,7 @@
 # TataSteel-JobFinder
 
 #Project Link:
-https://tata-steel-job-finder-njv384l80-adi1816s-projects.vercel.app/
+[JobKhojo](https://tata-steel-job-finder-njv384l80-adi1816s-projects.vercel.app/)
 
 # Project Report: JobKhojo - A Job Finder Application
 
